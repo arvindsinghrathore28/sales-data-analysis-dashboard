@@ -1,0 +1,24 @@
+INTERVIEW QUICK PREP
+
+Project: Sales Data Analysis & Reporting Dashboard
+
+1. What was the goal?
+To analyze sales data and turn raw records into useful business KPIs and trends.
+
+2. What tools did you use?
+SQL for querying and aggregation, and Excel for reporting, KPIs and charts.
+
+3. What cleaning did you perform?
+Handled missing values, trimmed inconsistent text values, checked duplicates and recalculated revenue consistently.
+
+4. What KPIs did you calculate?
+Total revenue, total units, number of orders and average order value.
+
+5. What business analysis did you perform?
+Product, region, sales-channel and monthly revenue analysis.
+
+6. What did you learn?
+How to move from raw data to a clean dataset, analytical queries, business metrics and a report/dashboard.
+
+Important:
+The dataset is synthetic and was created for portfolio/interview practice.
